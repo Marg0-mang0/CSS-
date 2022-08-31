@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2? ');
+
+.zagolovok {
+    color: #00ff7f;
+}
+em {
+    color: #3cb371;
+}
+.spisok {
+ font-weight: bold;
+}
+.pg {
+font-size: 85%;
+}
+.silka:hover {
+color: #db7093;
+}
+.silka:visited {
+    color: #ff6347;
+}
+
+@import url('https://fonts.googleapis.com/css2? ');
+
+.element {
+    font: normal 18px 'Roboto', serif;
+}
+
+.flag {
+    border: 1px solid black;
+    margin-top: 30px;
+    height: 400px;
+    width: 600px;
+    position: relative;
+    background: #fff;
+}
+
+.circle {
+    margin: 75px 160px; 
+    border-radius: 50%;
+    width: 240px;
+    height: 240px;
+    background: #dc143c;
+}
+
+.list-group {
+    margin-top: 60px;
+}
+
+.i:hover {
+    color: #fff;
+}
+
+.list-group-item {
+    border: 1px solid rgba(0,0,0,.125);
+    padding: 10px;
+    font-weight: bold;
+    width: 400px;
+    font-family:Arial, Helvetica, sans-serif;
+    list-style: none;
+}
+
+.list-group-item:hover {
+    background: #0d6efd;
+   }
+
+.card-img-top {
+width: 300px;
+}
+
+.card {
+    border: 1px solid 	#a9a9a9;
+    width: 300px;
+    margin-left: 90px;
+    margin-top: 30px;
+    font: normal 18px 'Roboto', sans-serif;
+
+}
+
+.card-body {
+    margin: 20px 20px 20px 20px;
+}
